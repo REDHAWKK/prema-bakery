@@ -231,7 +231,7 @@ setIsCartOpen={setIsCartOpen}
       <section className="relative h-screen min-h-[600px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <img 
-            src="src/assets/hero1.jpg" 
+            src="./src/assets/hero1.jpg" 
             alt="Bakery" 
             className="w-full h-full object-cover"
           />
